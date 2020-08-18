@@ -14,13 +14,7 @@
     import 'firebase/auth'
 
     const firebaseConfig = {
-        apiKey: 'AIzaSyC-QppD-hOn-UQg7rTus994kQGmlPiwceI',
-        authDomain: 'fir-auth-flow-example.firebaseapp.com',
-        databaseURL: 'https://fir-auth-flow-example.firebaseio.com',
-        projectId: 'fir-auth-flow-example',
-        storageBucket: 'fir-auth-flow-example.appspot.com',
-        messagingSenderId: '595494479084',
-        appId: '1:595494479084:web:2aaa6a62f5b7d9dd6eb1c9',
+      //your firebase configuration
     }
 
     firebase.initializeApp(firebaseConfig)
